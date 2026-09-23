@@ -63,6 +63,7 @@ body {
     box-shadow:  0.001rem 0.001rem 0.3rem 0.01rem rgba(0, 0, 0, 0.486);
     border-radius: 1rem;
     height: 2rem;
+    padding-left: 2rem;
 }
 .signup input:hover{
     transition: 0.25s;
