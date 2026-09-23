@@ -64,6 +64,7 @@ body {
     border-radius: 1rem;
     height: 2rem;
     padding-left: 2rem;
+    font-size: 1rem;
 }
 .signup input:hover{
     transition: 0.25s;
