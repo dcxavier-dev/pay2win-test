@@ -95,3 +95,7 @@ body {
     font-size: 3rem;
     font-weight: 700; 
 }
+a{
+    text-decoration: none;
+    color: inherit;
+}
